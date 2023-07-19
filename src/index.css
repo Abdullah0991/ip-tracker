@@ -1,0 +1,27 @@
+.attribution {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.8);
+    font-size: 11px;
+    text-align: center;
+    padding: 2px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.search-submit-btn {
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+}
+
+table.location_popup_tb td {
+    padding: 4px 8px;
+}
