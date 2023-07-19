@@ -14,10 +14,10 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[//]: # (### Links)
+[//]: # ()
+[//]: # (- Solution URL: [Add solution URL here]&#40;https://your-solution-url.com&#41;)
+[//]: # (- Live Site URL: [Add live site URL here]&#40;https://your-live-site-url.com&#41;)
 
 
 ### Built with
